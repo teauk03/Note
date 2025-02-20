@@ -82,6 +82,3 @@ System.out.println(context.getBean("person3Parameters"));
 System.out.println(context.getBean("address2"));
 System.out.println(context.getBean("address2", Address.class));
 ```
-
-## 결론
-
