@@ -1,5 +1,5 @@
 # Mysql 아키텍쳐
-![alt text](설명사진/MysqlAch.png)
+![alt text](설명사진/mysql아키텍처.png)
 * MySQL이 내부에서 쿼리를 어떻게 처리하고 데이터를 어떻게 저장하고 관리하는지 구성한 구조
 
 <br></br>
