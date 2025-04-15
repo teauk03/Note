@@ -1,3 +1,11 @@
+# 목차
+1. [DDL (Data Definition Language)](#ddl-data-definition-language)
+2. [CREATE](#create)
+
+3. [ALTER](#alter)
+
+4. [DROP](#drop)
+
 # DDL (Data Definiition Language)
 * 데이터 정의 언어 
 * 데이터를 저장할 테이블의 구조를 조작(생성, 수정, 삭제)하는 명령어
