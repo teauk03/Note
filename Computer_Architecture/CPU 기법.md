@@ -59,9 +59,9 @@ ALU
 * 하나의 코어가 동시에 처리하는 명령어의 단위
 * **멀티 스레드/CPU:** 하나의 코어로 여러 명령어를 처리하는 것 
     * **1코어 1스레드 인경우**
-![alt text](../설명사진/1core1thread.png)
+![alt text](설명사진/1core1thread.png)
     * **2코어 4스레드인 경우**
-![alt text](../설명사진/2core4thread.png)
+![alt text](설명사진/2core4thread.png)
 <br><br/>
 
 
@@ -75,7 +75,7 @@ ALU
 
 ## CPU와 OS가 프로그램을 실행하는 과정
 
-![alt text](<../설명사진/os와 CPU가 프로그램을 실행하는 과정.png>)
+![alt text](<설명사진/os와 CPU가 프로그램을 실행하는 과정.png>)
 
 1. 프로그램 로드 (Disk -> RAM)
     * 프로그램 실행 시, 디스크에서 RAM으로 이동 (인스턴스화) 
