@@ -78,7 +78,15 @@
 
 <br></br>
 
-### 3.2. 연결 종료 (4-way handshake)
+### 3.2. 데이터 송수신 (흐름 제어)
+- TCP의 데이터 송수신 과정에서 **흐름 제어**는 매우 중요한 역할을 수해왐
+- 흐름 제어에 대한 자세한 설명은 아래 링크를 참고
+
+[자세히 보기: TCP의 오류, 흐름, 혼잡 제어 기법](https://github.com/teauk03/Note/blob/main/network/%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5/TCP%EC%9D%98%20%EC%98%A4%EB%A5%98.%ED%9D%90%EB%A6%84.%ED%98%BC%EC%9E%A1%20%EC%A0%9C%EC%96%B4%20%EA%B8%B0%EB%B2%95.md)
+
+<br></br>
+
+### 3.3. 연결 종료 (4-way handshake)
 ![alt text](<../설명사진/[전송계층] 연결 해제 과정.png>)
 * 데이터 송수신이 끝난 후 TCP 연결은 4-way handshake를 통해 종료됨
 * 해당 과정은 송수신 호스트가 각자 한번 씩 FIN과 ACK을 주고 받으며 이루어짐
